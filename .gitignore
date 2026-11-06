@@ -1,0 +1,7 @@
+*.swp
+.idea/
+*.log
+.vscode/
+*.swo
+Thumbs.db
+.DS_Store
